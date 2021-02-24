@@ -1,0 +1,1 @@
+pdftoppm new-certificate-for-uxcel.pdf new-certificate-for-uxcel -png -rx 300 -ry 300
