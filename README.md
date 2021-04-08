@@ -1,6 +1,6 @@
 # Uxcel Certificate Redesign Contest
 
-### My certificate redesign for Uxcel Contest.
+### My certificate redesign for Uxcel Contest. This design project was made with Figma.
 
 [Contest url](https://uxcel.com/certificate-contest)
 
